@@ -133,12 +133,11 @@ input[type="checkbox"]:checked + label{
     font-family: "Poetsen One", sans-serif;
     font-weight: 400;
     font-style: normal;
-    margin-top: 1%;
+    margin-top: 75%;
     height: fit-content;
 }
 
 .title{
-    margin-top: 5%;
     height: fit-content;
     font-family: "Poetsen One", sans-serif;
     font-weight: 600;
