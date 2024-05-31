@@ -118,6 +118,7 @@ input[type="checkbox"] {
     cursor: pointer;
     border-radius: 40% 40% 0% 0%;
     order: 1;
+    margin: auto;
 }
 
 input[type="checkbox"]:checked{
@@ -133,10 +134,13 @@ input[type="checkbox"]:checked + label{
     font-family: "Poetsen One", sans-serif;
     font-weight: 400;
     font-style: normal;
+    margin: auto;
+    width: auto;
 }
 
 .title{
-    padding: 10%;
+    margin: auto;
+    width: auto;
     font-family: "Poetsen One", sans-serif;
     font-weight: 600;
     font-style: italic;
