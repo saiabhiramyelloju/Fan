@@ -127,7 +127,7 @@ input[type="checkbox"]:checked{
 
 input[type="checkbox"]:checked + label{
     animation-play-state: running;
-    animation-duration: 5ms;
+    animation-duration: 1s;
 }
 
 .creator {
